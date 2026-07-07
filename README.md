@@ -185,7 +185,7 @@ BlogManagementSystem
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YourUsername/BlogManagementSystem.git
+git clone https://github.com/AmirmahdiOfficial026/XBlogProject.git
 ```
 
 ## Navigate to Project
