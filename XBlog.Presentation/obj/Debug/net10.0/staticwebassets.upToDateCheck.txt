@@ -1,0 +1,193 @@
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\css\bootstrap-grid.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.sea.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\css\bootstrap-reboot.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\esm\popper-utils.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery\LICENSE.txt
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\css\bootstrap.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation\LICENSE.md
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\font-awesome\HELP-US-OUT.txt
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.svg
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery\dist\jquery.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\popper-utils.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\js\bootstrap.bundle.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation\dist\additional-methods.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\css\bootstrap-reboot.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.violet.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.default.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\umd\popper.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\font-awesome\css\font-awesome.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\css\bootstrap.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\popper-utils.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\icons-reference\icons-reference.html
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery.cookie\cookie.jquery.json
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery.cookie\MIT-LICENSE.txt
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\img\user.svg
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery.cookie\jquery.cookie.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery\jquery.slim.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\umd\popper.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\js\site.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\fontastic.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.pink.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\js\front.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\esm\popper.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery\dist\jquery.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\popper.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\icons-reference\fonts\blog.svg
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\js\bootstrap.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery\jquery.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\umd\popper-utils.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.blue.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\popper.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery\dist\jquery.min.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\umd\popper-utils.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery\jquery.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\js\bootstrap.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\favicon.ico
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.red.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery\jquery.slim.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\fonts\blog.svg
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\font-awesome\fonts\FontAwesome.otf
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\icons-reference\styles.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\font-awesome\css\font-awesome.min.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\style.green.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\esm\popper.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\bootstrap\css\bootstrap-grid.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery\core.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\site.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\css\custom.css
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\popper.js\esm\popper-utils.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.js
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\vendor\jquery.cookie\component.json
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Presentation\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\css\custom.css
+wwwroot\css\fontastic.css
+wwwroot\css\site.css
+wwwroot\css\style.blue.css
+wwwroot\css\style.default.css
+wwwroot\css\style.green.css
+wwwroot\css\style.pink.css
+wwwroot\css\style.red.css
+wwwroot\css\style.sea.css
+wwwroot\css\style.violet.css
+wwwroot\favicon.ico
+wwwroot\fonts\blog.eot
+wwwroot\fonts\blog.svg
+wwwroot\fonts\blog.ttf
+wwwroot\fonts\blog.woff
+wwwroot\icons-reference\fonts\blog.eot
+wwwroot\icons-reference\fonts\blog.svg
+wwwroot\icons-reference\fonts\blog.ttf
+wwwroot\icons-reference\fonts\blog.woff
+wwwroot\icons-reference\icons-reference.html
+wwwroot\icons-reference\styles.css
+wwwroot\img\WeblogLogo.png
+wwwroot\img\user.svg
+wwwroot\js\front.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\vendor\bootstrap\css\bootstrap-grid.css
+wwwroot\vendor\bootstrap\css\bootstrap-grid.min.css
+wwwroot\vendor\bootstrap\css\bootstrap-reboot.css
+wwwroot\vendor\bootstrap\css\bootstrap-reboot.min.css
+wwwroot\vendor\bootstrap\css\bootstrap.css
+wwwroot\vendor\bootstrap\css\bootstrap.min.css
+wwwroot\vendor\bootstrap\js\bootstrap.bundle.js
+wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\vendor\bootstrap\js\bootstrap.js
+wwwroot\vendor\bootstrap\js\bootstrap.min.js
+wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.css
+wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.js
+wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.min.css
+wwwroot\vendor\fancyapps\fancybox\jquery.fancybox.min.js
+wwwroot\vendor\font-awesome\HELP-US-OUT.txt
+wwwroot\vendor\font-awesome\css\font-awesome.css
+wwwroot\vendor\font-awesome\css\font-awesome.min.css
+wwwroot\vendor\font-awesome\fonts\FontAwesome.otf
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.eot
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.svg
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff
+wwwroot\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+wwwroot\vendor\jquery.cookie\MIT-LICENSE.txt
+wwwroot\vendor\jquery.cookie\component.json
+wwwroot\vendor\jquery.cookie\cookie.jquery.json
+wwwroot\vendor\jquery.cookie\jquery.cookie.js
+wwwroot\vendor\jquery\core.js
+wwwroot\vendor\jquery\jquery.js
+wwwroot\vendor\jquery\jquery.min.js
+wwwroot\vendor\jquery\jquery.slim.js
+wwwroot\vendor\jquery\jquery.slim.min.js
+wwwroot\vendor\popper.js\esm\popper-utils.js
+wwwroot\vendor\popper.js\esm\popper-utils.min.js
+wwwroot\vendor\popper.js\esm\popper.js
+wwwroot\vendor\popper.js\esm\popper.min.js
+wwwroot\vendor\popper.js\popper-utils.js
+wwwroot\vendor\popper.js\popper-utils.min.js
+wwwroot\vendor\popper.js\popper.js
+wwwroot\vendor\popper.js\popper.min.js
+wwwroot\vendor\popper.js\umd\popper-utils.js
+wwwroot\vendor\popper.js\umd\popper-utils.min.js
+wwwroot\vendor\popper.js\umd\popper.js
+wwwroot\vendor\popper.js\umd\popper.min.js
+wwwroot\vendor\popper.js\umd\poppper.js.flow

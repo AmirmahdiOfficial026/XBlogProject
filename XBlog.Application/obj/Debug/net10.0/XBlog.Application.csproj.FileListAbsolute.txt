@@ -1,0 +1,15 @@
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\bin\Debug\net10.0\XBlog.Application.deps.json
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\bin\Debug\net10.0\XBlog.Application.dll
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\bin\Debug\net10.0\XBlog.Application.pdb
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\bin\Debug\net10.0\XBLog.Domain.dll
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\bin\Debug\net10.0\XBLog.Domain.pdb
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.csproj.AssemblyReference.cache
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.AssemblyInfoInputs.cache
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.AssemblyInfo.cs
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.csproj.CoreCompileInputs.cache
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Ap.B743202A.Up2Date
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.dll
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\refint\XBlog.Application.dll
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\XBlog.Application.pdb
+D:\amirmahdi\.NET Projects\XBLog\XBlog.Application\obj\Debug\net10.0\ref\XBlog.Application.dll

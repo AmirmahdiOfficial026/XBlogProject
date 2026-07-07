@@ -1,0 +1,65 @@
+﻿@using XBlog.Application.Dto
+@model IEnumerable<CommentDto>
+@{
+    ViewData["Title"] = "Comment Managemenr";
+}
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="float-left">Comment List</h3>
+    </div>
+    <div class="card-body">
+        <div class="TableRespons">
+            <table class="table text-center">
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Message</th>
+                    <th>Article</th>
+                    <th>Status</th>
+                    <th>Creation Date:</th>
+                    <th>Operation:</th>
+                </tr>
+                @foreach (var comment in Model)
+                {
+                    <tr>
+                        <td>@comment.Id</td>
+                        <td>@comment.Name</td>
+                        <td>@comment.Email</td>
+                        <td>@comment.Message</td>
+                        <td>@comment.ArticleTitle</td>
+                        <td>
+                            @if (comment.Status == XBLog.Domain.Enum.StatusComment.Pending)
+                            {
+                                <i class="fa fa-2x fa-eye text-info"></i>
+                            }
+                            else if (comment.Status == XBLog.Domain.Enum.StatusComment.Confirm)
+                            {
+                                <i class="fa fa-2x fa-check text-success"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-2x fa-close text-danger"></i>
+                            }
+                        </td>
+                        <td>@comment.CreationDate</td>
+                        <td>
+                            <form asp-area="Admin" asp-controller="Comment" asp-action="Confirm" method="post">
+                                <input type="hidden" name="id" value="@comment.Id" />
+                                <button class="btn btn-success mb-1">Confirm</button>
+                            </form>
+                            <form asp-area="Admin" asp-controller="Comment" asp-action="Reject" method="post">
+                                <input type="hidden" name="id" value="@comment.Id" />
+                                <button class="btn btn-danger mt-1">Reject</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,138 @@
+﻿@using XBlog.Presentation.Areas.Admin.Models
+@model AdminPanelViewModel
+@{
+    ViewData["Title"] = "Admin Panel";
+}
+
+<div class="card" id="ArticleCategoryManagement">
+    <div class="card-header">
+        <h2 class="d-inline-block m-2">Article Categories</h2>
+        <a asp-area="Admin" asp-controller="ArticleCategory" asp-action="Index"
+           class="btn btn-info float-right m-2">ArticleCategoryManagement</a>
+    </div>
+    <div class="card-body">
+        <div class="TableRespons">
+            <table class="table text-center">
+                <tr>
+                    <th>ID:</th>
+                    <th>Title:</th>
+                    <th>Status:</th>
+                    <th>Creation Date:</th>
+                </tr>
+                @foreach (var articleCategory in Model.ArticleCategories)
+                {
+                    <tr>
+                        <td>@articleCategory.Id</td>
+                        <td>@articleCategory.Title</td>
+                        <td>
+                            @if (articleCategory.IsDeleted)
+                            {
+                                <i class="fa fa-2x fa-close text-danger"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-2x fa-check text-success"></i>
+                            }
+                        </td>
+                        <td>@articleCategory.CreationDate</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<div class="card my-5" id="ArticleManagement">
+    <div class="card-header">
+        <h2 class="d-inline-block m-2">Articles</h2>
+        <a asp-area="Admin" asp-controller="Article" asp-action="Index"
+           class="btn btn-info float-right m-2">ArticleManagement</a>
+    </div>
+    <div class="card-body">
+        <div class="TableRespons">
+            <table class="table text-center">
+                <tr>
+                    <th>ID:</th>
+                    <th>Title:</th>
+                    <th>Article Category:</th>
+                    <th>Status:</th>
+                    <th>Creation Date:</th>
+                </tr>
+                @foreach (var article in Model.Articles)
+                {
+                    <tr>
+                        <td>@article.Id</td>
+                        <td>@article.Title</td>
+                        <td>@article.CategoryTitle</td>
+                        <td>
+                            @if (article.IsDeleted)
+                            {
+                                <i class="fa fa-2x fa-close text-danger"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-2x fa-check text-success"></i>
+                            }
+                        </td>
+                        <td>@article.CreationDate</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<div class="card my-5" id="CommentManagement">
+    <div class="card-header">
+        <h2 class="d-inline-block m-2">Comments</h2>
+        <a asp-area="Admin" asp-controller="Comment" asp-action="Index"
+           class="btn btn-info float-right m-2">CommentManagement</a>
+    </div>
+    <div class="card-body">
+        <div class="TableRespons">
+            <table class="table text-center">
+
+
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Message</th>
+                    <th>Article</th>
+                    <th>Status</th>
+                    <th>Creation Date:</th>
+                </tr>
+
+                @foreach (var comment in Model.Comments)
+                {
+                    <tr>
+                        <td>@comment.Id</td>
+                        <td>@comment.Name</td>
+                        <td>@comment.Email</td>
+                        <td>@comment.Message</td>
+                        <td>@comment.ArticleTitle</td>
+                        <td>
+                            @if (comment.Status == XBLog.Domain.Enum.StatusComment.Pending)
+                            {
+                                <i class="fa fa-2x fa-eye text-info"></i>
+                            }
+                            else if (comment.Status == XBLog.Domain.Enum.StatusComment.Confirm)
+                            {
+                                <i class="fa fa-2x fa-check text-success"></i>
+                            }
+                            else
+                            {
+                                <i class="fa fa-2x fa-close text-danger"></i>
+                            }
+                        </td>
+                        <td>@comment.CreationDate</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>
+
+

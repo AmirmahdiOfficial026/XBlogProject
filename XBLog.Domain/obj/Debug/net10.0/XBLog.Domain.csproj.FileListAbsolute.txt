@@ -1,0 +1,11 @@
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\bin\Debug\net10.0\XBLog.Domain.deps.json
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\bin\Debug\net10.0\XBLog.Domain.dll
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\bin\Debug\net10.0\XBLog.Domain.pdb
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\XBLog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\XBLog.Domain.AssemblyInfoInputs.cache
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\XBLog.Domain.AssemblyInfo.cs
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\XBLog.Domain.csproj.CoreCompileInputs.cache
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\XBLog.Domain.dll
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\refint\XBLog.Domain.dll
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\XBLog.Domain.pdb
+D:\amirmahdi\.NET Projects\XBLog\XBLog.Domain\obj\Debug\net10.0\ref\XBLog.Domain.dll

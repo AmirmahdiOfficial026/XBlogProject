@@ -1,0 +1,36 @@
+﻿@using XBlog.Presentation.Areas.Admin.Models
+@model UserRoleModelView
+
+<div class="card">
+    <div class="card-header">
+        <h2>User Role Management</h2>
+    </div>
+    <div class="card-body">
+        <table class="table table-borderless">
+            <tr>
+                <th>Username : </th>
+                <td>@Model.CurrentUser.UserName</td>
+            </tr>
+            <tr>
+                <th>Email : </th>
+                <td>@Model.CurrentUser.Email</td>
+            </tr>
+        </table>
+        <hr />
+        <form asp-area="Admin" asp-controller="UserManager" asp-action="SelectRole" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="@Model.CurrentUser.Id" name="Id" />
+            <div class="ml-5 my-3">
+            @foreach (var role in Model.AllRoles)
+            {
+                <input type="checkbox" class="form-check-input" name="Roles" value="@role.Name"
+                       checked="@Model.UserRoles.Contains(role.Name)" />
+                <label>@role.Name</label>
+            }
+            </div>
+            <div>
+                <button type="submit" class="btn btn-warning">Edit User Role</button>
+            </div>
+        </form>
+    </div>
+</div>

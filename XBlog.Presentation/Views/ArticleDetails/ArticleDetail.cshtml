@@ -1,0 +1,102 @@
+﻿@using System.Security.Claims
+@using XBlog.Application.Dto
+@model CreateCommentDto
+@{
+    ViewData["Title"] = $"{ViewBag.Article.Title}";
+    string Email = User.FindFirstValue(ClaimTypes.Email)
+               ?? User.FindFirstValue("http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress")
+               ?? User.Identity?.Name
+               ?? " ";
+    var Name = User.Identity?.Name ?? " ";
+}
+<main class="post blog-post col-lg-12">
+    <div class="container">
+        <div class="post-single">
+            <div class="post-thumbnail">
+                <img src="@ViewBag.Article.Image" alt="@ViewBag.Article.Title" title="@ViewBag.Article.Title" class="img-fluid w-100">
+            </div>
+            <div class="post-details">
+                <div class="post-meta d-flex justify-content-between">
+                    <div class="category">
+                        <a href="#">@ViewBag.Article.CategoryTitle</a>
+                    </div>
+                </div>
+                <h1>
+                    <p>@ViewBag.Article.Title</p>
+                </h1>
+                <div class="post-footer d-flex align-items-center flex-column flex-sm-row">
+                    <div class="d-flex align-items-center flex-wrap">
+                        <div class="date">
+                            <i class="icon-clock"></i> @ViewBag.Article.CreationDate
+                        </div>
+                        <div class="ml-4 comments meta-last"><i class="icon-comment"></i> @ViewBag.Article.CommentCount</div>
+                    </div>
+                </div>
+                <div class="post-body mt-3">
+                    <p>
+                        @ViewBag.Article.ShortDescription
+                    </p>
+                    <p>@ViewBag.Article.Content</p>
+                </div>
+
+
+                <div class="post-comments my-5">
+                    <header>
+                        <h3 class="h6">Post Comments<span class="no-of-comments">(@ViewBag.Article.CommentCount)</span></h3>
+                    </header>
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <h6 class="text-danger"><i class="fa fa-2x fa-warning"></i>  You must register on the site to post a comment.</h6>
+                    }
+
+                    @foreach (var comment in ViewBag.Article.Comments)
+                    {
+                        <div class="comment">
+                            <div class="comment-header d-flex justify-content-between">
+                                <div class="user d-flex align-items-center">
+                                    <div class="image">
+                                        <img src="~/img/user.svg" alt="..." class="img-fluid rounded-circle">
+                                    </div>
+                                    <div class="title">
+                                        <strong>@comment.Name</strong><span class="date">@comment.CreationDate</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="comment-body">
+                                <p>@comment.Message</p>
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+
+                <div class="add-comment">
+                    <header>
+                        <h3 class="h6">Leave a reply</h3>
+                    </header>
+                    <form class="commenting-form" asp-area="" asp-controller="ArticleDetails" asp-action="CreateComment" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="@Model.ArticleId" value="@ViewBag.Article.Id" />
+                        <div class="row">
+                            <div class="form-group col-md-6">
+                                <input name="Name" value="@Name" type="text" placeholder="Name" class="form-control" readonly>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <input type="email" name="Email" value="@Email" placeholder="Email Address (will not be published)"
+                                       class="form-control" readonly>
+                            </div>
+                            <div class="form-group col-md-12">
+                                <textarea asp-for="Message" placeholder="Type your comment" class="form-control"></textarea>
+                                <span asp-validation-for="Message" class="text-danger"></span>
+                            </div>
+                            <div class="form-group col-md-12">
+                                <button type="submit" class="btn btn-secondary">Submit Comment</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

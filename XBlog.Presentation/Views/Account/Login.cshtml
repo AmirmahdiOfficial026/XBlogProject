@@ -1,0 +1,34 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    ViewData["HideFooter"] = true;
+}
+<div class="card w-50 m-auto">
+    <div class="card-header text-center">
+        <h2>Login</h2>
+    </div>
+    <div class="card-body">
+        <div class="">
+            <form asp-area="" asp-controller="Account" asp-action="Login">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div>
+                    <label asp-for="@Model.Email">Email</label>
+                    <input asp-for="@Model.Email" type="text" class="form-control" autocomplete="off">
+                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                </div>
+                <div>
+                    <label asp-for="@Model.Password" for="">Password</label>
+                    <input asp-for="@Model.Password" type="password" class="form-control">
+                    <span asp-validation-for="@Model.Password" class="text-danger"></span>
+                </div>
+                <div class="ml-4 mb-4">
+                    <input asp-for="@Model.RemeberMe" type="checkbox" class="form-check-input" checked>
+                    <label asp-for="@Model.RemeberMe" class="form-check-label">Remember Me</label>
+                </div>
+                <div>
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

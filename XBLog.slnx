@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="XBlog.Application/XBlog.Application.csproj" />
+  <Project Path="XBLog.Domain/XBLog.Domain.csproj" />
+  <Project Path="XBlog.Infrastructure/XBlog.Infrastructure.csproj" />
+  <Project Path="XBlog.Presentation/XBlog.Presentation.csproj" />
+</Solution>
